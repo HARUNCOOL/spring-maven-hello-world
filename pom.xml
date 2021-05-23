@@ -67,6 +67,8 @@
 			</plugin>
 			
 		</plugins>
+		
+		<finalName>spring-maven-hello-world - ${project.version} - ${maven.build.timestamp}</finalName>
 	</build>
 
 </project>
